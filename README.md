@@ -5,7 +5,7 @@
 <p align="center"><i>npm start</i></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react" alt="Dev icons" />
+  <img src="https://skillicons.dev/icons?i=react" alt="Dev icons" />
 </p>
 
 <p align="center">
